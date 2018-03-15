@@ -1,6 +1,6 @@
 FROM node:8.9-alpine as node-angular-cli
 
-LABEL authors="John Papa"
+LABEL authors="Tumbone Asukile"
 
 #Linux setup
 RUN apk update \
